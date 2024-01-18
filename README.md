@@ -1,2 +1,1 @@
-# F1
-Statistic of pilots F1
+The program parses statistics of Formula 1 drivers for 2022 and 2023. Cleans information, filters and displays a DataFrame with the general results of the current pilot. How many times has a driver occupied this or that position in 2 years.
